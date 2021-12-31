@@ -1,0 +1,6 @@
+TEMPLATE = app
+DEPENDPATH+=.
+INCLUDEPATH+=.
+#Input
+SOURCES+=layout2.cpp
+

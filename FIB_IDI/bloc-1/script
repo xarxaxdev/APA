@@ -1,0 +1,4 @@
+#make dist clean
+#qmake-qt5
+make
+./Bloc2_Exemple

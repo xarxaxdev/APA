@@ -1,0 +1,11 @@
+(define (final1516Q2)
+  (:domain banquete)
+  (:object Antonio Ainhoa Lola Lolo Esperanza Enrique Susana Manu
+           Manolito Susanita Jesus Quico -comensal
+           s1_m1 s1_m2 s2_m1 s3_m1 s4_m1 s5_m1 s6_m1 -silla
+           m1 m2 -mesa
+  )
+  
+
+
+  (:goal (is_goal))

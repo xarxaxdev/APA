@@ -1,0 +1,21 @@
+mconcat::[[a]] -> [a]
+mconcat xs = [ x| y<- xs, x<- y]
+
+concat3:: [[[a]]] -> [a]
+concat3 xs = mconcat (map mconcat xs)
+
+--falta el 2
+
+
+mix:: [a] -> [a] -> [a] 
+mix [] x = x
+mix x [] = x
+mix (x:xs) (y:ys) = x:y:(mix xs ys)
+
+lmix:: [Int] -> [a] -> [a]
+lmix [] sol = sol
+lmix (x:xs) sol = lmix xs (mix f s)
+ where (f,s) = splitAt x sol
+
+
+

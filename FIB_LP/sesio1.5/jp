@@ -1,0 +1,4 @@
+begin
+x := 30+20
+write x
+

@@ -1,0 +1,16 @@
+#./bin/bash
+
+echo "Hello world"
+
+echo "/opt/pccts/bin/antlr -gt  plumber.g"
+/opt/pccts/bin/antlr -gt  plumber.g
+echo "/opt/pccts/bin/dlg -ci parser.dlg scan.c"
+/opt/pccts/bin/dlg -ci parser.dlg scan.c
+
+echo "g++ -o plumber plumber.c scan.c err.c -I/home/soft/PCCTS_v1.33/include/ -Wno-write-strings"
+g++ -o plumber plumber.c scan.c err.c -I/home/soft/PCCTS_v1.33/include/ -Wno-write-strings
+echo "executing program"
+./plumber < inp.txt
+#./lego < jp
+#echo "cleaning"
+#rm -f *.o example1.c scan.c err.c parser.dlg tokens.h mode.h 

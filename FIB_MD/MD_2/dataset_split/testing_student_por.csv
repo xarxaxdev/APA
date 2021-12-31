@@ -1,0 +1,164 @@
+,Unnamed: 0,school,sex,age,address,famsize,pstatus,medu,fedu,mjob,fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,dalc,walc,health,absences,Grade,Passed
+0,0,GP,F,Major,U,GT3,A,Higher,Higher,at_home,teacher,course,mother,15-30min,2-5h,No,True,False,False,False,True,True,False,False,Excellent,Normal,High,No,No,Normal,4,7.0,Passed
+4,4,GP,F,Minor,U,GT3,T,Secondary,Secondary,other,other,home,father,<15min,2-5h,No,False,True,False,False,True,True,False,False,Excellent,Normal,Low,No,Moderately,Good,0,12.0,Failed
+6,6,GP,M,Minor,U,LE3,T,Middle,Middle,other,other,home,mother,<15min,2-5h,No,False,False,False,False,True,True,True,False,Excellent,High,High,No,No,Normal,0,12.0,Failed
+7,7,GP,F,Minor,U,GT3,A,Higher,Higher,other,teacher,home,mother,15-30min,2-5h,No,True,True,False,False,True,True,False,False,Excellent,Low,High,No,No,Bad,2,12.0,Failed
+10,10,GP,F,Minor,U,GT3,T,Higher,Higher,teacher,health,reputation,mother,<15min,2-5h,No,False,True,False,False,True,True,True,False,Normal,Normal,Normal,No,Moderately,Bad,2,14.0,Failed
+14,14,GP,M,Minor,U,GT3,A,Middle,Middle,other,other,home,other,<15min,5-10h,No,False,True,False,False,True,True,True,True,Excellent,High,Low,No,No,Normal,0,14.0,Failed
+25,25,GP,F,Minor,U,GT3,T,Middle,Middle,services,services,home,mother,<15min,<2h,No,False,True,False,False,False,True,True,False,Bad,Low,Low,No,Moderately,Good,6,11.0,Failed
+31,31,GP,M,Minor,U,GT3,T,Higher,Higher,services,services,reputation,mother,15-30min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,Low,No,No,Good,2,15.0,Failed
+33,33,GP,M,Minor,U,LE3,T,Secondary,Secondary,other,other,course,mother,<15min,2-5h,No,False,False,False,True,False,True,True,False,Excellent,Normal,Low,No,No,Bad,0,12.0,Failed
+35,35,GP,F,Minor,U,GT3,T,Middle,Secondary,other,other,other,father,15-30min,<2h,No,False,True,False,True,True,True,False,False,Normal,High,Low,No,No,Good,4,11.0,Failed
+36,36,GP,M,Minor,U,LE3,T,Higher,Secondary,teacher,services,home,mother,<15min,5-10h,No,False,True,False,True,True,True,True,False,Excellent,High,Normal,No,No,Good,0,14.0,Failed
+39,39,GP,F,Minor,R,GT3,T,Middle,Middle,at_home,other,reputation,mother,<15min,<2h,No,True,True,False,True,True,True,False,False,Excellent,Normal,Low,No,No,Bad,8,13.0,Failed
+44,44,GP,F,Minor,U,LE3,T,Middle,Middle,other,at_home,course,father,15-30min,2-5h,1-2,True,False,False,True,True,True,True,False,Excellent,Normal,Normal,Moderately,Moderately,Good,14,10.0,Failed
+45,45,GP,F,Minor,U,LE3,A,Higher,Secondary,other,other,course,mother,<15min,2-5h,No,True,True,True,True,True,True,True,True,Excellent,Low,Low,No,No,Good,4,10.0,Failed
+47,47,GP,M,Minor,U,GT3,T,Higher,Secondary,health,services,reputation,mother,<15min,>10h,No,False,False,False,True,True,True,True,False,Excellent,Low,Low,No,No,Bad,2,17.0,Failed
+49,49,GP,F,Minor,U,GT3,T,Higher,Higher,services,teacher,other,father,<15min,2-5h,No,True,True,False,True,False,True,True,False,Excellent,High,High,No,No,Normal,2,12.0,Failed
+50,50,GP,F,Minor,U,LE3,T,Middle,Middle,services,services,course,mother,30min-1h,2-5h,No,False,True,False,False,True,True,True,False,Excellent,Normal,Normal,Moderately,Moderately,Good,0,13.0,Failed
+52,52,GP,M,Minor,U,LE3,A,Higher,Middle,health,health,other,father,15-30min,<2h,No,False,False,False,False,True,True,False,False,Excellent,High,High,Moderately,A lot,Good,4,9.0,Passed
+54,54,GP,F,Minor,U,LE3,A,Secondary,Secondary,other,other,other,mother,<15min,<2h,No,False,False,False,False,True,True,True,False,Excellent,Normal,High,A lot,A lot,Bad,0,12.0,Failed
+55,55,GP,F,Minor,U,GT3,A,Middle,Primary,other,other,other,mother,<15min,2-5h,No,False,False,False,True,True,True,True,True,Excellent,Normal,High,No,No,Bad,2,12.0,Failed
+56,56,GP,F,Minor,U,GT3,A,Higher,Secondary,services,services,reputation,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,Low,No,No,Bad,0,14.0,Failed
+65,65,GP,F,Minor,U,LE3,T,Higher,Secondary,teacher,services,course,mother,30min-1h,2-5h,No,False,True,False,True,True,True,True,False,Excellent,High,Normal,No,Moderately,Bad,2,15.0,Failed
+69,69,GP,F,Minor,R,LE3,T,Secondary,Primary,other,other,reputation,father,15-30min,>10h,No,False,True,False,False,False,True,True,False,Excellent,High,Low,Moderately,Moderately,Normal,6,15.0,Failed
+76,76,GP,M,Minor,U,GT3,T,Higher,None,teacher,other,course,mother,15-30min,>10h,No,False,False,False,True,True,True,True,False,Normal,High,Normal,No,No,Bad,0,11.0,Failed
+78,78,GP,M,Minor,U,GT3,T,Middle,Primary,other,other,home,mother,15-30min,<2h,>3,True,True,False,True,True,False,True,False,Excellent,High,Low,No,No,Normal,0,9.0,Passed
+80,80,GP,M,Minor,U,GT3,T,Middle,Secondary,other,services,course,father,<15min,<2h,No,True,True,False,True,False,True,True,True,Normal,Low,Low,No,Moderately,Normal,0,11.0,Failed
+85,85,GP,F,Minor,U,GT3,T,Higher,Higher,services,services,reputation,father,15-30min,2-5h,No,False,False,False,False,True,True,True,True,Excellent,High,High,Moderately,Moderately,Good,4,11.0,Failed
+86,86,GP,F,Minor,U,LE3,T,Middle,Middle,at_home,other,course,mother,<15min,2-5h,No,False,True,False,False,True,True,False,False,Excellent,Normal,High,No,Moderately,Bad,6,11.0,Failed
+88,88,GP,M,Minor,U,GT3,T,Middle,Middle,services,other,reputation,father,15-30min,2-5h,No,False,False,False,True,False,True,True,False,Excellent,High,Low,No,No,Normal,6,11.0,Failed
+89,89,GP,M,Minor,U,LE3,A,Higher,Higher,teacher,health,reputation,mother,<15min,2-5h,No,False,True,False,False,True,True,False,False,Excellent,Low,Normal,Moderately,A lot,Good,6,9.0,Passed
+91,91,GP,F,Minor,U,GT3,T,Higher,Secondary,services,other,reputation,mother,<15min,<2h,No,False,False,False,True,True,True,True,False,Excellent,High,High,No,Moderately,Bad,6,13.0,Failed
+96,96,GP,M,Minor,R,GT3,T,Higher,Secondary,services,other,reputation,mother,15-30min,<2h,No,True,True,True,True,False,True,True,False,Normal,Normal,Normal,No,No,Good,6,10.0,Failed
+99,99,GP,F,Minor,U,GT3,T,Higher,Secondary,other,at_home,course,mother,<15min,5-10h,No,True,True,False,False,True,True,True,False,Excellent,Normal,High,No,No,Normal,2,12.0,Failed
+100,100,GP,M,Minor,U,GT3,T,Higher,Higher,services,services,other,mother,<15min,<2h,No,True,True,False,True,True,True,True,False,Excellent,High,High,A lot,A lot,Good,12,8.0,Passed
+104,104,GP,M,Minor,U,GT3,A,Secondary,Higher,services,other,course,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,High,High,No,No,Bad,0,16.0,Failed
+105,105,GP,F,Minor,U,GT3,A,Secondary,Secondary,other,health,reputation,father,<15min,>10h,No,True,False,False,False,True,True,False,False,Excellent,Normal,Normal,No,No,Good,10,10.0,Failed
+111,111,GP,F,Minor,R,GT3,T,Secondary,Secondary,services,other,reputation,father,<15min,5-10h,No,True,True,False,True,True,True,True,False,Excellent,Low,Low,No,No,Bad,4,11.0,Failed
+114,114,GP,M,Minor,R,GT3,T,Middle,Primary,health,services,reputation,mother,<15min,2-5h,No,False,False,False,True,True,True,True,True,Excellent,High,Low,No,No,Good,4,9.0,Passed
+115,115,GP,M,Minor,U,GT3,T,Higher,Higher,teacher,teacher,course,father,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,High,High,No,Moderately,Good,6,14.0,Failed
+120,120,GP,F,Minor,U,GT3,T,Primary,Middle,at_home,services,course,mother,<15min,2-5h,No,False,False,False,False,False,True,True,False,Normal,Low,Normal,No,Moderately,Bad,0,14.0,Failed
+121,121,GP,M,Minor,U,GT3,T,Middle,Middle,services,services,home,father,<15min,>10h,No,False,True,False,True,True,True,True,False,Excellent,High,High,No,Moderately,Good,6,13.0,Failed
+122,122,GP,F,Minor,U,LE3,T,Middle,Higher,other,health,course,father,15-30min,2-5h,No,False,True,False,True,True,True,True,True,Excellent,Low,Low,No,Moderately,Good,2,13.0,Failed
+123,123,GP,M,Minor,U,GT3,T,Higher,Higher,health,other,course,mother,<15min,<2h,No,False,True,False,True,True,True,True,False,Normal,High,High,No,A lot,Good,4,12.0,Failed
+128,128,GP,M,Minor,R,GT3,T,Higher,Higher,teacher,teacher,course,mother,<15min,<2h,No,False,False,False,True,True,True,True,False,Normal,High,High,Moderately,A lot,Good,8,14.0,Failed
+130,130,GP,F,Minor,R,GT3,T,Secondary,Higher,services,teacher,course,father,15-30min,5-10h,No,False,True,False,False,True,True,True,True,Excellent,Low,Low,Moderately,Moderately,Good,0,11.0,Failed
+133,133,GP,F,Minor,U,GT3,T,Primary,Primary,at_home,other,course,mother,30min-1h,<2h,No,False,True,False,True,False,True,True,True,Excellent,Normal,Normal,No,Moderately,Good,6,12.0,Failed
+134,134,GP,F,Minor,U,LE3,T,Middle,Middle,other,other,course,father,<15min,<2h,No,False,True,False,False,True,True,True,True,Normal,High,High,No,Moderately,Good,2,12.0,Failed
+137,137,GP,F,Minor,U,GT3,A,Middle,Middle,other,other,home,mother,<15min,<2h,1-2,False,False,False,False,True,True,False,False,Excellent,Normal,High,No,No,Good,12,11.0,Failed
+139,139,GP,F,Minor,U,GT3,T,Higher,Higher,services,at_home,course,mother,<15min,5-10h,No,False,True,False,True,True,True,True,True,Excellent,Normal,Normal,No,No,Good,4,14.0,Failed
+145,145,GP,F,Minor,U,GT3,A,Secondary,Secondary,other,other,course,other,15-30min,<2h,No,False,True,False,True,False,True,True,True,Excellent,Normal,Low,No,No,Good,4,9.0,Passed
+148,148,GP,F,Minor,R,GT3,T,Primary,Primary,other,other,course,mother,30min-1h,<2h,1-2,False,False,False,True,True,True,True,True,Excellent,High,High,No,No,Bad,2,8.0,Passed
+159,159,GP,F,Minor,U,GT3,T,Primary,Middle,at_home,other,course,mother,<15min,2-5h,No,False,True,False,False,False,True,True,False,Excellent,Normal,Low,No,No,Good,6,12.0,Failed
+164,164,GP,M,Minor,U,LE3,T,Middle,Primary,at_home,other,course,mother,<15min,<2h,1-2,False,False,False,True,True,True,False,True,Excellent,High,High,Moderately,A lot,Good,6,9.0,Passed
+167,167,GP,F,Minor,U,GT3,T,Higher,Higher,other,teacher,course,mother,<15min,<2h,No,True,True,False,False,True,True,False,True,Excellent,Low,Low,No,No,Good,0,13.0,Failed
+175,175,GP,M,Minor,R,GT3,T,Secondary,Middle,other,other,course,mother,15-30min,2-5h,1-2,True,True,False,False,True,True,True,True,Excellent,High,High,No,A lot,Normal,4,7.0,Passed
+176,176,GP,M,Minor,U,LE3,T,Primary,Middle,other,other,course,mother,15-30min,<2h,No,False,False,False,True,True,True,False,False,Excellent,High,High,Moderately,A lot,Good,2,9.0,Passed
+179,179,GP,M,Minor,U,GT3,T,Secondary,Middle,services,services,course,mother,15-30min,<2h,>3,False,True,False,True,False,False,False,False,Excellent,High,Low,No,No,Bad,10,7.0,Passed
+186,186,GP,M,Minor,U,LE3,T,Higher,Higher,teacher,other,reputation,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,High,High,No,Moderately,Good,0,10.0,Failed
+190,190,GP,F,Minor,U,GT3,T,Middle,Middle,services,other,reputation,mother,15-30min,2-5h,No,False,False,False,True,False,True,True,False,Normal,High,High,No,A lot,Good,0,13.0,Failed
+195,195,GP,M,Minor,U,GT3,T,Secondary,Secondary,services,other,home,mother,<15min,2-5h,No,False,False,False,True,True,True,True,True,Excellent,Low,Normal,No,Moderately,Normal,0,12.0,Failed
+198,198,GP,F,Minor,U,GT3,T,Secondary,Middle,other,other,reputation,mother,<15min,2-5h,No,False,True,False,False,True,True,True,False,Bad,Low,Low,No,Moderately,Bad,8,15.0,Failed
+202,202,GP,F,Minor,U,GT3,A,Secondary,Secondary,health,other,reputation,mother,<15min,2-5h,No,False,True,False,False,False,True,True,True,Normal,Normal,Normal,No,Moderately,Normal,10,13.0,Failed
+203,203,GP,M,Minor,R,GT3,T,Primary,Middle,at_home,other,home,mother,<15min,2-5h,No,False,False,False,False,True,True,False,False,Normal,Low,Normal,No,A lot,Normal,6,9.0,Passed
+206,206,GP,M,Minor,U,GT3,T,Primary,Middle,at_home,services,other,other,15-30min,2-5h,No,False,False,False,True,False,True,True,False,Excellent,High,High,A lot,A lot,Good,16,11.0,Failed
+207,207,GP,M,Minor,R,GT3,T,Secondary,Secondary,services,services,reputation,mother,<15min,<2h,No,False,True,False,True,True,True,True,False,Excellent,Normal,Low,Moderately,A lot,Good,0,10.0,Failed
+210,210,GP,M,Minor,U,GT3,T,Higher,Higher,services,teacher,home,mother,<15min,<2h,No,False,False,False,False,True,True,True,False,Excellent,Low,Normal,No,Moderately,Good,4,13.0,Failed
+213,213,GP,F,Minor,U,LE3,T,Higher,Higher,teacher,teacher,reputation,mother,<15min,2-5h,No,False,True,False,False,True,True,True,False,Excellent,High,Low,No,Moderately,Normal,0,10.0,Failed
+214,214,GP,F,Minor,U,GT3,T,Higher,Secondary,health,other,home,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,High,No,A lot,Bad,2,14.0,Failed
+215,215,GP,F,Minor,U,GT3,T,Middle,Secondary,other,other,reputation,mother,<15min,2-5h,No,True,True,False,True,True,True,False,False,Excellent,High,Normal,No,Moderately,Good,4,11.0,Failed
+223,223,GP,F,Minor,R,GT3,T,Higher,Secondary,teacher,other,reputation,mother,15-30min,5-10h,No,False,True,False,True,True,True,True,True,Excellent,High,Low,No,No,Good,0,11.0,Failed
+227,227,GP,M,Major,U,GT3,T,Middle,Middle,services,other,home,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,High,High,Moderately,A lot,Good,10,11.0,Failed
+231,231,GP,M,Major,U,LE3,T,Secondary,Secondary,services,health,home,father,<15min,2-5h,No,False,True,False,False,True,True,True,False,Normal,Low,High,Moderately,A lot,Good,10,10.0,Failed
+232,232,GP,F,Minor,U,GT3,T,Middle,Secondary,at_home,other,home,father,15-30min,<2h,No,False,True,False,False,True,True,False,False,Normal,Normal,Normal,No,A lot,Normal,4,12.0,Failed
+236,236,GP,F,Minor,U,GT3,T,Middle,Secondary,services,teacher,other,mother,<15min,2-5h,No,True,False,False,False,True,True,True,False,Bad,Normal,Low,No,No,Normal,0,13.0,Failed
+253,253,GP,F,Major,U,LE3,A,Middle,Higher,services,other,course,mother,15-30min,2-5h,1-2,False,True,False,False,True,True,True,False,Excellent,Normal,Normal,No,No,Normal,18,10.0,Failed
+256,256,GP,M,Major,U,GT3,T,Middle,Middle,other,at_home,course,other,<15min,<2h,1-2,False,True,False,True,False,False,True,True,Excellent,High,Normal,Moderately,Moderately,Bad,26,7.0,Passed
+260,260,GP,F,Minor,U,GT3,T,Primary,Middle,other,other,course,mother,<15min,<2h,No,False,False,False,False,True,False,True,False,Excellent,Normal,High,No,Moderately,Good,4,11.0,Failed
+262,262,GP,F,Minor,R,LE3,A,Primary,Higher,other,other,course,other,>1h,<2h,1-2,False,True,False,False,True,True,True,False,Excellent,High,High,No,No,Good,14,8.0,Passed
+263,263,GP,M,Major,U,GT3,T,Middle,Middle,other,services,reputation,father,<15min,2-5h,No,False,False,False,False,True,False,True,False,Excellent,High,High,Moderately,A lot,Bad,16,7.0,Passed
+264,264,GP,F,Minor,U,LE3,A,Middle,Middle,other,other,home,mother,<15min,<2h,1-2,False,True,False,False,False,False,True,False,Normal,Low,Low,No,No,Bad,8,10.0,Failed
+267,267,GP,M,Minor,U,LE3,T,Higher,Secondary,health,other,course,mother,15-30min,2-5h,No,False,False,False,True,True,True,True,True,Bad,High,High,No,A lot,Good,8,15.0,Failed
+270,270,GP,M,Minor,U,GT3,T,Higher,Higher,services,services,course,mother,<15min,<2h,No,False,False,True,True,True,True,True,False,Excellent,Normal,Low,No,Moderately,Good,4,14.0,Failed
+275,275,GP,F,Major,U,GT3,T,Middle,Primary,other,other,course,other,15-30min,5-10h,No,False,True,False,False,False,True,True,True,Excellent,High,High,No,No,Normal,10,11.0,Failed
+281,281,GP,M,Minor,U,GT3,T,None,Middle,other,other,other,mother,<15min,<2h,No,False,False,False,False,False,True,True,False,Excellent,Normal,Low,Moderately,A lot,Good,0,11.0,Failed
+285,285,GP,M,Minor,R,GT3,T,Middle,Primary,other,other,course,mother,15-30min,<2h,No,False,False,False,True,False,True,False,False,Normal,Normal,Low,No,Moderately,Normal,2,13.0,Failed
+294,294,GP,F,Major,R,GT3,T,Middle,Middle,other,other,home,mother,<15min,2-5h,No,True,False,False,False,True,True,False,False,Normal,Low,Normal,No,No,Good,4,11.0,Failed
+297,297,GP,M,Minor,R,GT3,T,Middle,Middle,other,services,other,mother,15-30min,<2h,No,False,False,False,False,False,False,False,False,Excellent,Low,Low,No,No,Good,0,9.0,Passed
+299,299,GP,F,Major,R,GT3,T,Middle,Primary,other,other,course,other,15-30min,2-5h,No,False,True,True,True,True,False,True,True,Bad,Low,Normal,No,Moderately,Bad,8,11.0,Failed
+309,309,GP,M,Major,U,GT3,T,Higher,Middle,health,other,reputation,father,<15min,2-5h,No,False,True,False,True,True,True,True,True,Excellent,High,High,No,Moderately,Good,4,12.0,Failed
+311,311,GP,F,Major,U,GT3,T,Secondary,Secondary,other,services,home,other,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,High,Moderately,Moderately,Good,16,11.0,Failed
+316,316,GP,F,Minor,U,GT3,T,Middle,Higher,at_home,health,reputation,mother,15-30min,2-5h,No,False,True,False,False,True,True,True,True,Excellent,Normal,Normal,No,No,Bad,6,15.0,Failed
+321,321,GP,F,Minor,U,GT3,T,Middle,Middle,other,services,reputation,father,30min-1h,5-10h,No,False,True,False,False,True,True,True,True,Excellent,Low,Normal,No,No,Bad,8,14.0,Failed
+323,323,GP,M,Major,U,LE3,T,Higher,Secondary,teacher,services,course,mother,15-30min,<2h,No,False,False,False,True,True,True,True,False,Excellent,Low,Normal,No,Moderately,Bad,0,10.0,Failed
+324,324,GP,M,Major,U,GT3,T,Primary,Middle,at_home,other,home,other,15-30min,<2h,No,False,False,False,False,False,False,True,False,Normal,High,High,Moderately,A lot,Good,10,10.0,Failed
+326,326,GP,M,Minor,U,LE3,A,Secondary,Middle,teacher,services,home,mother,<15min,<2h,No,False,False,False,False,True,True,True,False,Excellent,High,High,Moderately,A lot,Normal,18,13.0,Failed
+327,327,GP,F,Major,R,LE3,T,Primary,Primary,at_home,other,reputation,mother,15-30min,>10h,No,False,True,False,True,True,True,False,False,Excellent,Low,Low,No,No,Normal,2,17.0,Failed
+331,331,GP,M,Minor,U,GT3,T,Primary,Primary,other,other,reputation,father,<15min,2-5h,No,False,False,False,False,False,True,True,False,Excellent,Normal,Normal,No,Moderately,Good,0,12.0,Failed
+346,346,GP,M,Minor,U,LE3,T,Higher,Higher,other,teacher,home,father,15-30min,<2h,No,False,False,False,False,True,True,True,False,Excellent,Low,Low,Moderately,Moderately,Good,0,12.0,Failed
+349,349,GP,F,Minor,U,GT3,T,Secondary,Middle,health,health,reputation,father,<15min,>10h,No,False,True,False,True,False,True,True,False,Excellent,Low,Low,No,Moderately,Good,0,18.0,Failed
+358,358,GP,F,Major,U,LE3,T,Higher,Secondary,health,services,course,mother,15-30min,<2h,No,False,True,False,False,True,True,True,False,Normal,Low,High,No,A lot,Bad,8,13.0,Failed
+360,360,GP,F,Major,U,GT3,T,Secondary,Secondary,at_home,other,course,father,<15min,2-5h,No,False,True,False,False,True,True,True,False,Excellent,Low,High,No,No,Normal,8,12.0,Failed
+362,362,GP,F,Major,U,GT3,T,Higher,Higher,teacher,other,course,mother,<15min,2-5h,No,False,True,False,False,True,True,True,False,Excellent,High,High,Moderately,Moderately,Good,0,12.0,Failed
+369,369,GP,F,Major,U,GT3,T,Primary,Primary,other,other,course,other,30min-1h,5-10h,No,False,False,False,True,True,False,False,True,Bad,High,High,A lot,Moderately,Good,12,10.0,Failed
+377,377,GP,M,Major,U,GT3,T,Higher,Higher,other,other,course,mother,<15min,5-10h,No,False,False,False,True,True,True,True,False,Excellent,Normal,Normal,Moderately,Moderately,Normal,0,13.0,Failed
+386,386,GP,F,Minor,R,GT3,T,Middle,Higher,at_home,other,course,father,<15min,5-10h,No,False,True,False,False,True,True,True,True,Excellent,High,Normal,No,No,Good,0,15.0,Failed
+387,387,GP,M,Major,U,GT3,T,Middle,Middle,other,other,reputation,mother,<15min,<2h,No,False,False,False,False,False,True,True,False,Excellent,High,Low,No,Moderately,Good,6,14.0,Failed
+388,388,GP,F,Major,U,GT3,T,Secondary,Secondary,services,services,home,mother,<15min,2-5h,No,False,False,False,True,True,True,True,False,Excellent,Normal,High,No,No,Good,8,11.0,Failed
+408,408,GP,M,Major,U,LE3,T,Middle,Middle,services,services,reputation,mother,<15min,2-5h,No,False,True,False,True,False,False,True,False,Excellent,High,High,No,Moderately,Normal,11,10.0,Failed
+410,410,GP,F,Minor,U,GT3,T,Middle,Middle,services,services,reputation,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,High,No,Moderately,Good,0,15.0,Failed
+413,413,GP,M,Major,R,LE3,T,Primary,Primary,at_home,other,course,other,15-30min,2-5h,1-2,False,True,False,True,True,False,True,True,Excellent,Normal,Normal,A lot,Moderately,Good,21,9.0,Passed
+415,415,GP,F,Major,U,GT3,T,Higher,Higher,teacher,other,home,other,<15min,<2h,1-2,False,True,False,False,True,True,True,True,Normal,Low,High,A lot,A lot,Good,5,10.0,Failed
+416,416,GP,M,Minor,U,LE3,A,Secondary,Middle,other,other,reputation,mother,<15min,2-5h,No,False,True,False,False,True,True,True,False,Excellent,High,High,No,Moderately,Good,10,17.0,Failed
+428,428,MS,F,Minor,R,LE3,T,Middle,Primary,at_home,other,home,mother,15-30min,<2h,No,False,False,False,False,True,False,False,False,Bad,Normal,High,No,No,Bad,0,7.0,Passed
+429,429,MS,M,Minor,R,LE3,A,Higher,Higher,at_home,other,home,mother,<15min,2-5h,No,False,True,False,False,True,True,False,False,Excellent,Normal,Low,No,Moderately,Bad,5,10.0,Failed
+436,436,MS,F,Minor,R,LE3,T,Primary,Primary,other,services,course,mother,15-30min,<2h,1-2,False,True,False,False,True,True,True,True,Excellent,High,Normal,No,Moderately,Bad,4,7.0,Passed
+441,441,MS,M,Minor,U,GT3,T,Primary,Primary,other,other,home,mother,<15min,2-5h,No,False,False,True,False,False,True,True,False,Excellent,High,Normal,Moderately,A lot,Good,4,8.0,Passed
+454,454,MS,F,Minor,U,GT3,T,Primary,Middle,other,services,course,mother,<15min,5-10h,1-2,False,True,False,False,True,True,False,False,Bad,Normal,Low,No,Moderately,Good,3,8.0,Passed
+456,456,MS,F,Minor,U,GT3,T,Primary,Primary,at_home,other,course,father,<15min,2-5h,No,False,True,False,False,False,True,False,True,Excellent,High,Normal,Moderately,No,Bad,0,14.0,Failed
+459,459,MS,F,Minor,R,GT3,T,Primary,Primary,at_home,other,other,father,>1h,5-10h,No,True,True,False,False,True,True,False,False,Excellent,High,Normal,No,No,Good,2,9.0,Passed
+462,462,MS,F,Minor,R,GT3,T,Primary,Primary,at_home,at_home,course,father,30min-1h,2-5h,No,False,True,False,False,True,True,False,False,Excellent,Low,Low,No,Moderately,Bad,0,13.0,Failed
+464,464,MS,M,Minor,R,GT3,T,Primary,Primary,at_home,other,other,father,15-30min,<2h,No,False,False,False,True,True,True,False,False,Normal,High,High,Moderately,A lot,Good,6,11.0,Failed
+477,477,MS,M,Minor,U,GT3,T,Secondary,Secondary,services,services,course,father,15-30min,<2h,No,False,True,False,True,False,True,True,False,Excellent,Normal,Normal,Moderately,A lot,Normal,11,11.0,Failed
+483,483,MS,F,Minor,R,GT3,T,Middle,Middle,other,other,course,father,30min-1h,2-5h,No,False,True,False,False,True,False,True,False,Normal,High,High,No,Moderately,Bad,1,10.0,Failed
+485,485,MS,F,Minor,R,GT3,T,Middle,Middle,at_home,other,course,mother,15-30min,2-5h,No,False,True,False,False,True,True,True,False,Excellent,Normal,High,No,Moderately,Good,0,10.0,Failed
+486,486,MS,F,Minor,U,GT3,T,Middle,Middle,other,services,course,father,<15min,<2h,1-2,False,True,True,True,False,True,True,False,Excellent,High,Normal,No,A lot,Normal,1,9.0,Passed
+488,488,MS,F,Major,U,GT3,T,Primary,Primary,at_home,services,course,mother,<15min,5-10h,1-2,False,False,False,True,True,False,False,True,Excellent,Normal,Low,No,No,Normal,6,8.0,Passed
+496,496,MS,F,Minor,R,LE3,T,Primary,Primary,services,services,home,mother,<15min,<2h,No,False,True,False,True,True,True,True,True,Excellent,High,High,Moderately,Moderately,Good,2,14.0,Failed
+498,498,MS,F,Minor,U,GT3,T,Middle,Primary,other,services,course,mother,<15min,2-5h,No,False,True,False,True,True,True,True,False,Excellent,Normal,Normal,No,No,Bad,0,13.0,Failed
+499,499,MS,F,Minor,U,GT3,T,Middle,Middle,services,other,course,mother,<15min,<2h,No,False,True,True,True,True,True,False,True,Excellent,Low,High,No,Moderately,Good,0,16.0,Failed
+500,500,MS,M,Minor,U,GT3,T,Primary,Middle,other,other,course,father,<15min,<2h,1-2,False,True,False,True,True,False,True,True,Excellent,Normal,High,A lot,A lot,Bad,12,6.0,Passed
+504,504,MS,F,Major,U,LE3,T,Middle,Middle,other,other,home,mother,<15min,5-10h,No,False,False,False,False,True,True,True,True,Excellent,High,High,No,No,Bad,0,12.0,Failed
+505,505,MS,F,Minor,R,GT3,T,Primary,Primary,at_home,other,reputation,mother,15-30min,<2h,No,False,True,False,True,False,True,True,True,Excellent,High,High,No,Moderately,Good,0,11.0,Failed
+506,506,MS,F,Major,U,GT3,T,Secondary,Secondary,at_home,services,other,mother,15-30min,2-5h,1-2,False,False,False,True,True,True,True,True,Normal,Normal,High,Moderately,A lot,Normal,8,10.0,Failed
+508,508,MS,M,Minor,R,GT3,T,Middle,Middle,other,other,course,mother,30min-1h,<2h,1-2,False,True,False,False,False,True,True,False,Excellent,High,High,No,Moderately,Good,0,9.0,Passed
+518,518,MS,F,Major,U,GT3,A,Middle,Higher,other,services,reputation,father,<15min,2-5h,1-2,False,True,False,False,True,True,True,False,Bad,Normal,Low,No,Moderately,Bad,8,7.0,Passed
+524,524,MS,F,Minor,R,LE3,T,Secondary,Higher,at_home,other,other,mother,30min-1h,2-5h,No,False,True,False,False,False,True,False,False,Excellent,Low,Low,No,No,Bad,2,8.0,Passed
+528,528,MS,F,Minor,R,GT3,T,Middle,Middle,at_home,other,other,mother,<15min,<2h,No,False,True,True,False,True,True,True,False,Excellent,Low,Normal,No,Moderately,Good,5,9.0,Passed
+531,531,MS,M,Minor,U,GT3,T,Primary,Primary,at_home,services,other,mother,30min-1h,2-5h,No,False,False,False,False,True,True,True,True,Excellent,Low,Normal,Moderately,Moderately,Bad,0,10.0,Failed
+533,533,MS,F,Minor,U,LE3,T,Middle,Primary,other,services,other,mother,<15min,2-5h,No,False,False,False,False,True,True,True,True,Normal,Low,Low,No,No,Normal,0,15.0,Failed
+534,534,MS,M,Minor,U,LE3,T,Higher,Higher,teacher,health,other,father,<15min,<2h,No,False,True,False,False,True,True,True,False,Excellent,Low,Low,Moderately,A lot,Good,0,11.0,Failed
+540,540,MS,F,Minor,U,GT3,T,Secondary,Middle,at_home,other,home,mother,15-30min,<2h,No,False,False,False,False,True,True,False,True,Excellent,Normal,Normal,Moderately,Moderately,Bad,5,10.0,Failed
+549,549,MS,F,Minor,R,GT3,T,Higher,Middle,other,other,course,mother,15-30min,2-5h,No,True,True,False,False,False,True,True,False,Excellent,Normal,Normal,Moderately,Moderately,Good,0,17.0,Failed
+550,550,MS,M,Minor,U,LE3,A,Middle,Middle,other,services,course,father,15-30min,2-5h,No,False,True,False,False,False,True,True,True,Excellent,Low,Low,Moderately,Moderately,Good,0,12.0,Failed
+553,553,MS,M,Minor,U,LE3,A,Primary,None,other,other,home,mother,<15min,<2h,No,False,False,False,False,True,True,False,True,Excellent,Low,Low,No,No,Good,4,11.0,Failed
+558,558,MS,M,Minor,R,GT3,T,Middle,Middle,other,other,course,mother,15-30min,<2h,No,False,False,False,True,True,False,False,True,Excellent,High,High,Moderately,A lot,Good,0,10.0,Failed
+559,559,MS,M,Major,R,GT3,T,Primary,None,at_home,at_home,course,other,30min-1h,<2h,1-2,True,True,False,False,True,True,False,False,Excellent,Normal,Low,No,No,Good,0,12.0,Failed
+560,560,MS,M,Minor,R,GT3,T,Primary,Primary,other,services,course,mother,15-30min,<2h,No,False,True,False,True,False,True,True,True,Excellent,High,High,No,Moderately,Bad,0,9.0,Passed
+569,569,MS,M,Major,U,GT3,T,Secondary,Secondary,at_home,at_home,course,mother,<15min,2-5h,1-2,False,True,False,True,True,False,True,False,Excellent,High,High,No,Moderately,Normal,9,6.0,Passed
+572,572,MS,F,Minor,U,GT3,A,Secondary,Middle,services,at_home,course,mother,15-30min,2-5h,1-2,False,True,False,True,True,True,False,True,Bad,High,High,No,No,Bad,8,5.0,Passed
+576,576,MS,M,Major,R,GT3,T,Secondary,Middle,other,other,course,mother,15-30min,<2h,No,False,True,False,False,False,True,True,False,Bad,High,High,A lot,A lot,Good,8,10.0,Failed
+577,577,MS,M,Major,R,GT3,T,Primary,Primary,other,services,home,other,30min-1h,2-5h,1-2,False,False,False,False,True,True,True,False,Excellent,High,High,Moderately,Moderately,Bad,8,10.0,Failed
+578,578,MS,M,Minor,U,GT3,T,Secondary,Secondary,health,other,course,mother,15-30min,2-5h,1-2,False,True,False,False,True,True,True,False,Excellent,High,High,Moderately,Moderately,Normal,4,9.0,Passed
+584,584,MS,F,Minor,R,GT3,T,None,None,at_home,other,course,mother,15-30min,<2h,No,False,True,False,False,True,True,True,False,Excellent,High,Normal,No,No,Good,0,10.0,Failed
+585,585,MS,F,Minor,R,LE3,A,Secondary,Primary,other,at_home,course,other,15-30min,5-10h,No,False,True,True,False,True,False,False,False,Excellent,Low,Normal,Moderately,Moderately,Normal,5,7.0,Passed
+588,588,MS,F,Minor,U,GT3,T,Higher,Primary,health,at_home,course,mother,<15min,<2h,No,False,True,False,False,True,True,False,True,Normal,Low,Low,No,No,Good,0,9.0,Passed
+591,591,MS,F,Major,U,GT3,T,Middle,Middle,services,at_home,reputation,father,15-30min,2-5h,No,False,False,False,True,False,True,True,False,Excellent,Normal,High,No,No,Bad,2,13.0,Failed
+605,605,MS,F,Major,U,GT3,T,Primary,Primary,at_home,services,other,father,15-30min,<2h,1-2,False,False,False,False,True,False,False,False,Excellent,High,High,Moderately,Moderately,Bad,0,1.0,Passed
+606,606,MS,F,Minor,U,GT3,T,Higher,Middle,teacher,other,course,father,15-30min,>10h,No,False,False,False,False,True,True,True,True,Excellent,Low,Normal,Moderately,No,Good,0,18.0,Failed
+607,607,MS,F,Minor,R,LE3,A,Middle,Primary,services,other,reputation,mother,15-30min,2-5h,No,False,False,False,True,True,True,True,True,Excellent,Normal,Normal,No,Moderately,Bad,5,11.0,Failed
+609,609,MS,F,Major,U,GT3,T,Primary,Middle,at_home,at_home,course,father,15-30min,2-5h,No,False,True,False,False,True,False,False,False,Excellent,Low,Low,No,No,Good,0,11.0,Failed
+625,625,MS,F,Major,U,GT3,T,Middle,Secondary,at_home,services,course,father,15-30min,<2h,No,False,True,False,False,True,True,True,True,Excellent,Low,Normal,No,Moderately,Good,0,10.0,Failed
+643,643,MS,F,Major,R,GT3,T,Higher,Higher,teacher,at_home,reputation,mother,30min-1h,<2h,No,False,True,False,True,True,True,True,True,Excellent,High,Normal,Moderately,Moderately,Good,4,8.0,Passed
+646,646,MS,F,Major,U,GT3,T,Primary,Primary,other,other,course,mother,15-30min,2-5h,No,False,False,False,True,True,True,False,False,Bad,Low,Low,No,No,Good,6,10.0,Failed

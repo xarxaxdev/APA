@@ -1,0 +1,3 @@
+bla,"airport1fullname",bla,a,"AI1",
+bla,"airport2fullname",bla,a,"AI2",
+bla,"airport3fullname",bla,a,"AI3",

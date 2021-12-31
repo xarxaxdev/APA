@@ -1,0 +1,57 @@
+(define (domain cocteleria)
+  (:requeriments :adl :typing)
+  (:types lugar item cocter - object
+          pedido persona -items
+          camarero barman cliente - persona
+          mesa barra bandeja slot - lugar)
+  (:predicates
+    (pedido ?p - pedido ?cl - cliente ?co coctel)
+    (pendiente ?p - pedido)
+    (listo ?p - pedido )
+    (servido ?p - pedido)
+    (esta_en ?x - item ?l - lugar)
+    (sostiene ?c - camarero ?b - bandeja)
+    (libre ?s - slot)
+  )
+
+  (:action crear_coctel
+    :parameters (?p - pedido ?co - coctel ?cl - cliente ?ba -barman ?br -barra)
+    :precondition (and (pendiente ?p) (pedido ?p ?cl ?co) (est_en ?ba ?br) )
+    :effect (and (not (pendiente ?p)) (listo ?p) (esta_en ?p ?br) )
+  )
+
+  (:action ir_a_barra)
+
+  (:action ir_a_mesa)
+)
+
+
+
+
+
+
+
+
+
+
+
+(define (domain cocteleria)
+  (:requirements :adl :strips)
+  (:types barman camarero coctel mesa cliente - object)
+  (:predicates
+    (sentado ?x - cliente ?y - mesa)
+    (pedido ?x - cliente ?y - coctel)
+    (coctel_pendiente ?x cliente ?y -coctel)
+  )
+)
+
+(:action pedido
+  :parameter (?c - cliente ?coc - coctel)
+  :precondition (not (c))
+)
+
+(:action crear_coctel
+  :parameters (?b - barman ?c - cliente ?coc - coctel )
+  :precondition (pedido ?c ?coc)
+  :effect ()
+)

@@ -1,0 +1,32 @@
+Running lsh.py with parameters k = 20 and m = 5
+there are  130 candidates for image 1500
+the best candidate is 1426
+its humming distance being48
+there are   69 candidates for image 1501
+the best candidate is 783
+its humming distance being42
+there are  130 candidates for image 1502
+the best candidate is 840
+its humming distance being48
+there are  188 candidates for image 1503
+the best candidate is 1473
+its humming distance being45
+there are  200 candidates for image 1504
+the best candidate is 1246
+its humming distance being54
+there are   91 candidates for image 1505
+the best candidate is 1436
+its humming distance being33
+there are  278 candidates for image 1506
+the best candidate is 1234
+its humming distance being57
+there are  133 candidates for image 1507
+the best candidate is 1452
+its humming distance being54
+there are   27 candidates for image 1508
+the best candidate is 131
+its humming distance being49
+there are   72 candidates for image 1509
+the best candidate is 1458
+its humming distance being46
+'main' ((), {}) 0.46 sec

@@ -1,0 +1,34 @@
+(define (domain banquete)
+  (:requeriments :adl :strips)
+  (:types comensal silla mesa - object))
+  (:predicates
+    (necesita ?x - comensal ?y - comensal)
+    (nosoporta ?x  -comensal ?y - comensal)
+    (pertenece_a ?sl - silla ?ms -mesa)
+    (izquierda_de ?sizq - silla ?sder - silla)
+    (colocado_en ?c - comensal ?sl -silla)
+    (colocado_mesa ?c - comensal ?m - mesa)
+    (asignada ?sl - silla)
+  )
+
+(:action colocar_comensal
+  :parameters (?c - comensal ?sl -silla ?ms -mesa ?sizq -silla ?sder -silla)
+  :precondition (and (not (colocado ?c)) (not (asignada ?sl)) (pertenece_a ?sl ?ms)
+                     (izquierda_de ?izq ?sl) (izquierda_de ?sl ?sder)
+                     (forall (?c2 -comensal)
+                          (and
+                            (imply (necesita ?c ?c2)
+                                   (or (colocado _en ?c2 ?sizq ) (colocado_en ?c2 ?sder))
+                            )
+                            (imply (nosoporta ?c ?c2)
+                                    (or (colocado ?c2) (not (colocado_mesa ?c2 ?ms)))
+                            )
+                          )
+                    )
+                )
+    :effect (and (colocado ?c) (colocado_en ?c ?sl) (colocado_mesa ?c ?ms) (asiganda ?sl) )
+  )
+
+  ; (:action colocar
+  ;   :parameters (?x)
+  ;   :precondition () )

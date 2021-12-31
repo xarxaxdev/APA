@@ -1,0 +1,10 @@
+Práctica de SBC versión pre-Alfa
+
+Nuestra práctica es muy básica, hace bastantas preguntas pero solo aprovecha el Presupuesto global y el numero de comensales para calcular el presupuesto por persona. 
+Con ellos calcula el presupuesto/persona y recomienda el primer menú que es capaz de construir por debajo de esa restricción.
+
+
+Guillem Gili i Bueno, Enrique Reyes Illescas, Javier Lopez Seguí
+
+
+

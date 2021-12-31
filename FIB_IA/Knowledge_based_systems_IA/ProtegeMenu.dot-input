@@ -1,0 +1,4 @@
+digraph "ProtegeMenu" {
+
+"Plato" [shape=box, label="Plato", color="0.0,0.0,0.0", fontcolor="0.0,0.0,0.0"]
+}

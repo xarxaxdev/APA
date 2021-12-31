@@ -1,0 +1,50 @@
+Traza 1
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0
+
+ff: found legal plan as follows
+
+step    0: CREAR_MENU ENSALADAGARBANZOS LANGOSTINOAJOMIEL VIERNES
+        1: CREAR_MENU ENSALADAGARBANZOS LANGOSTINOAJOMIEL JUEVES
+        2: CREAR_MENU ENSALADAGARBANZOS LANGOSTINOAJOMIEL MIERCOLES
+        3: CREAR_MENU ENSALADAGARBANZOS LANGOSTINOAJOMIEL MARTES
+        4: CREAR_MENU ENSALADAGARBANZOS LANGOSTINOAJOMIEL LUNES
+
+
+time spent:    0.00 seconds instantiating 45 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 10 facts and 45 actions
+               0.00 seconds creating final representation with 10 relevant facts
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 6 states, to a max depth of 1
+               0.00 seconds total time
+
+
+
+Traza 2
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0
+
+ff: found legal plan as follows
+
+step    0: CREAR_MENU FIDEUAALLIOLI LANGOSTINOAJOMIEL VIERNES
+        1: CREAR_MENU FIDEUAALLIOLI LANGOSTINOAJOMIEL JUEVES
+        2: CREAR_MENU FIDEUAALLIOLI LANGOSTINOAJOMIEL MIERCOLES
+        3: CREAR_MENU FIDEUAALLIOLI LANGOSTINOAJOMIEL MARTES
+        4: CREAR_MENU FIDEUAALLIOLI LANGOSTINOAJOMIEL LUNES
+
+
+time spent:    0.00 seconds instantiating 40 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 10 facts and 40 actions
+               0.00 seconds creating final representation with 10 relevant facts
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 6 states, to a max depth of 1
+               0.00 seconds total time
